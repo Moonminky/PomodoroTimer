@@ -1,0 +1,24 @@
+body {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.timerblob {
+  border-radius:50%;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+}
+
+.timerblob span {
+  vertical-align: middle;
+  text-align: center;
+  font-size: 25px;
+}
+
+.glow-button {
+	 color: rgba(255, 255, 255, 1);
+	 box-shadow: 0 5px 25px rgba(220, 9, 9, .7);
+}
